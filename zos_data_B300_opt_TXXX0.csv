@@ -1,0 +1,9 @@
+,MIP_ERA,Activity,Institution_ID,Source_ID,Experiment_ID,Variant_Label,n_realizations,zos_size,Resolution,nominal_resolution,Score,Member
+7,CMIP6,CMIP,E3SM-Project,E3SM-1-0,historical,r1i1p1f1,5,"[360,180,60]",LR,100 km,0.0,3.0
+8,CMIP6,CMIP,E3SM-Project,E3SM-1-0,historical,r2i1p1f1,0,"[360,180,60]",LR,100 km,0.0,3.0
+9,CMIP6,CMIP,E3SM-Project,E3SM-1-0,historical,r3i1p1f1,0,"[360,180,60]",LR,100 km,0.0,3.0
+10,CMIP6,CMIP,E3SM-Project,E3SM-1-0,historical,r4i1p1f1,0,"[360,180,60]",LR,100 km,0.0,3.0
+11,CMIP6,CMIP,E3SM-Project,E3SM-1-0,historical,r5i1p1f1,0,"[360,180,60]",LR,100 km,0.0,3.0
+12,CMIP6,HighResMIP,EC-Earth-Consortium,EC-Earth3P,hist-1950,r1i1p2f1,3,"[362,292,12]",LR,100 km,0.0,4.0
+13,CMIP6,HighResMIP,EC-Earth-Consortium,EC-Earth3P,hist-1950,r2i1p2f1,0,"[362,292,12]",LR,100 km,0.0,4.0
+14,CMIP6,HighResMIP,EC-Earth-Consortium,EC-Earth3P,hist-1950,r3i1p2f1,0,"[362,292,12]",LR,25 km,0.0,4.0
